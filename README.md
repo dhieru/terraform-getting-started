@@ -1,12 +1,12 @@
 # Terraform
-#Characteristics of IaC:
-	Defined in code
-	Stored in source control, versioned (GIT etc)
-	Declarative instead of imperative
-	Idempotent and consistent (Knows the state)
-	Push instead of pull based
+## Characteristics of IaC:
+	* Defined in code
+	* Stored in source control, versioned (GIT etc)
+	* Declarative instead of imperative
+	* Idempotent and consistent (Knows the state)
+	* Push instead of pull based
 
-#Infrastructure as Code benefits: (We can use icons)
+## Infrastructure as Code benefits: (We can use icons)
 	Automated Deployment
 	Consistent environments
 	Repeatable process
@@ -14,7 +14,7 @@
 	Documented architecture
 
 Automating infrastructure
-#Terraform Components
+## Terraform Components
 	Terraform executable
 	Terraform files
 	Terraform plugins (to interact with providers for eg AWS, GCP)
